@@ -1,33 +1,28 @@
 # 👋 Wasup, I'm korrectional!
-This unfinished 
+
 ## 📚 About Me
 
-- 💻 **Software Developer**: I love coding and exploring new technologies.
-- 🌟 **Specialties**: Full-stack development, cloud computing, and DevOps.
-- 🎓 **Education**: Bachelor's degree in Computer Science.
-- 🌐 **Languages**: Python, JavaScript, Java, C#.
-- 🚀 **Hobbies**: Open-source contribution, learning new programming languages, and solving complex problems.
+- 💻 **Software Developer**: what a surprise here on github
+- 🌟 **Specialties**: I do a lot of stuff, just look at my repos
+- 🎓 **Education**: Bachelor's degree in Computer Science (jk I didnt even finish HS)
+- 🌐 **Languages**: Who cares (I know assembly tho)
+- 🚀 **Hobbies**: Programming, japanese, white powder lab?
 
 ## 🔭 Current Projects
 
-- **Project Name**: Brief description of the project and its goals.
-- **Project Name**: Brief description of the project and its goals.
-- **Project Name**: Brief description of the project and its goals.
+- **Vutor**: A super cool platform for tutoring for HS students!
+- **GDW**: Tryna win the TSA videogame development competition
+- **Every Week**: Every week I commit a new interesting 5 hour project
 
 ## 🌱 Learning Goals
 
-- Improving my knowledge in machine learning and AI.
-- Exploring new frameworks and tools in web development.
-- Contributing more to open-source projects.
+(doesnt fit in here)
 
 ## 📫 How to Reach Me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- **Email**: [tarassekanev@gmail.com](mailto:tarassekanev@gmail.com)
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
-
+Wanna collaborate? Im always down for that.
 ---
 
 Thanks for visiting my profile! Have a great day! 😊
