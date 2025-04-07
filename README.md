@@ -3,12 +3,15 @@
 ## 🔭 Current Projects
 
 - **Vutor**: A super cool platform for tutoring for HS students!
-- **GDW**: Tryna win the TSA videogame development competition (Got 2nd in regionals, going to states now!)
 - **Every Week**: Every week I make a small and interesting 5 hour project
 - **AKGameDev**: My club
+- **unsatisfactory OS**: my terrible featureless operating system
+
 
 Wanna collaborate? Im always down for that.
 Thanks for visiting my profile! Have a great day! 😊
+
+I think TSA sucks 
 
 <!---
 korrectional/korrectional is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
