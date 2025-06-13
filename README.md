@@ -1,17 +1,18 @@
-# 👋 Wasup, I'm korrectional!
+# 👋 Wasup, I'm David!
 ![](https://komarev.com/ghpvc/?username=korrectional)
 ## 🔭 Current Projects
 
-- **Vutor**: A super cool platform for tutoring for HS students!
-- **Every Week**: Every week I make a small and interesting 5 hour project
+- **Vutor**: A super cool platform for tutoring for HS students (100+ users)!
+- **Every Week**: Every week I make a small and interesting 4-10 hour project
 - **AKGameDev**: My club
 - **unsatisfactory OS**: my terrible featureless operating system
+- **Mtok Engine**: my makeshift game console "operating system", the development library for it and a bunch of games for it too
 
 
-Wanna collaborate? Im always down for that.
-Thanks for visiting my profile! Have a great day! 😊
+Have a great day! 😊 (I'd love to talk to you for any reason: tarassekanev@gmail.com)
 
-I think TSA sucks 
+
+I dislike TSA 
 
 <!---
 korrectional/korrectional is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
